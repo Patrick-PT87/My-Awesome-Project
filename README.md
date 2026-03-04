@@ -1,1 +1,1 @@
- # this awesome project is created to experiementgit notions like clone , push and pull.
+ # this awesome project is created to experiement git notions like clone , push and pull.
